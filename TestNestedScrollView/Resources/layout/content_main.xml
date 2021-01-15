@@ -19,6 +19,12 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/holo_red_light"
+                android:text="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
