@@ -62,7 +62,6 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="GenericParcelableCreatorForNestedScroll.cs" />
     <Compile Include="IObservableScrollViewCallbacks.cs" />
     <Compile Include="IScrollable.cs" />
